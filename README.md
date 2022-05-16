@@ -1,5 +1,4 @@
 # Internship-Tasks
-A repo where I will share the tasks of my internships at both of Learn Grow More and Grip - Sparks foundation
 
 ### Oasis infobyte
 - [Tasks](https://www.canva.com/design/DAE-U6GdWc8/dMFXatVlhHq6sxzPTO1haA/view?utm_content=DAE-U6GdWc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1)
